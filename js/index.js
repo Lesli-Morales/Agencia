@@ -1,8 +1,7 @@
 
     let heroContenedor = document.getElementById("hero");
-    let heroImagen = document.getElementById("heroImagen");
 
-    const imagenesHero = ["movil_1.avif","movil_2.avif","movil_3.avif","movil_4.avif"];
+    const imagenesHero = ["desktop1.avif","desktop2.avif","desktop3.avif","desktop4.avif"];
     let indexImagen = 0;
 
     const sliderHero = () =>{
